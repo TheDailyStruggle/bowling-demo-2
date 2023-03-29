@@ -9583,7 +9583,7 @@ h6,
   background: #707070;
 }
 
-.service-icon {
+.fa, .service-icon {
   margin-right: 15px;
   width: 45px;
   height: 45px;
