@@ -1,2 +1,2 @@
 # bowling-demo-2
-Bowling Website Demo
+Perfect Game Bowling Website Demo
