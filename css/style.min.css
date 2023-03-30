@@ -7414,6 +7414,8 @@ h5, h6, .font-weight-normal {
     bottom: -1px;
     background: url(../img/overlay-bottom.png);
 }
+
+
 .carousel-caption {
     top: 0;
     left: 0;
@@ -7423,6 +7425,19 @@ h5, h6, .font-weight-normal {
     z-index: 1;
     margin-top: -250px;
 }
+
+@media screen and (max-width: 1600px){
+    .carousel-caption {
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(30, 30, 30, 0.7);
+    z-index: 1;
+    margin-top: 0;
+}
+}
+
 .section-title {
     position: relative;
     padding: 115px 0 35px 0;
